@@ -33,6 +33,18 @@ gitlab用户名：root
 gitlab密码：root123456
 gitlab网址：http://192.168.88.101:82（不是老师的那个）
 
+jenkins网址：http://192.168.88.102:8888
+jenkins用户名：itcast
+jenkins密码：123456
+改插件下载地址：sed -i 's/http:\/\/updates.jenkins-ci.org\/download/https:\/\/mirrors.tuna.tsinghua.edu.cn\/jenkins/g' default.json && sed -i 's/http:\/\/www.google.com/https:\/\/www.baidu.com/g' default.json
+
+
+
 第1集看完——23-11-07
 第2-9集看完——23-11-14
 第10-12集看完——23-12-02
+第13-19集看完——23-12-03——磕磕绊绊，不过总体还算顺利吧。把java换成了17版本，把jenkins换成了最新的2.434版本，终于没问题了(发现maven没有安装成功......——最终东搞西搞成功了，哈哈)
+
+
+
+
